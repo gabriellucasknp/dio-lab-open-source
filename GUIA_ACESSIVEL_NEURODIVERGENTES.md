@@ -22,3 +22,4 @@ Configure ambientes de trabalho com iluminação adequada
 Utilize aplicativos de bloqueio de distrações (Freedom, Cold Turkey)
 
 Estabeleça metas realistas e específicas para cada sessão
+ (utilização de emojis e separações para deixar o guia mais interativo)
